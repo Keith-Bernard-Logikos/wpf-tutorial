@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kbernard\\source\\repos\\Logikos\\WPF\\WPFTutorial\\WPFTutorial.csproj": {}
+    "D:\\source\\repos\\logikos\\wpf-tutorial\\WPFTutorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kbernard\\source\\repos\\Logikos\\WPF\\WPFTutorial\\WPFTutorial.csproj": {
+    "D:\\source\\repos\\logikos\\wpf-tutorial\\WPFTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kbernard\\source\\repos\\Logikos\\WPF\\WPFTutorial\\WPFTutorial.csproj",
+        "projectUniqueName": "D:\\source\\repos\\logikos\\wpf-tutorial\\WPFTutorial.csproj",
         "projectName": "WPFTutorial",
-        "projectPath": "C:\\Users\\kbernard\\source\\repos\\Logikos\\WPF\\WPFTutorial\\WPFTutorial.csproj",
+        "projectPath": "D:\\source\\repos\\logikos\\wpf-tutorial\\WPFTutorial.csproj",
         "packagesPath": "C:\\Users\\kbernard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kbernard\\source\\repos\\Logikos\\WPF\\WPFTutorial\\obj\\",
+        "outputPath": "D:\\source\\repos\\logikos\\wpf-tutorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
